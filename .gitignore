@@ -1,3 +1,6 @@
+# Remove folder build
+build/
+
 # Prerequisites
 *.d
 
