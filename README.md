@@ -1,6 +1,13 @@
 # UDACITY_cpp
 
-- Using cmake:
+## Using g++
+
+```
+$ g++ hello.cpp -o hello
+```
+
+## Using cmake
+
 - Inside the folder with source code, create a folder build\
 - Inside build create a file CMakeLists.txt:
 
