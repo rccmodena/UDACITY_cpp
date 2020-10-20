@@ -1,5 +1,11 @@
 # UDACITY_cpp
 
+## Path
+
+```
+$ export PATH=$PATH:"/C/MinGW/bin"
+```
+
 ## Using g++
 
 ```
