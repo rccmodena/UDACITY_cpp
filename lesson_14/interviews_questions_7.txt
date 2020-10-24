@@ -1,0 +1,4 @@
+What is a static member variable?
+	Static members in a class are shared by the objects.
+	
+	Duncan Chan gave wrote this answer to the question: A static member variable means that the variable is shared between all instances of the class.

@@ -1,0 +1,5 @@
+What will be the value of i and j after the following code is executed?
+	int i = 10;
+	int j = i++;
+	
+	i = 11 and j = 10

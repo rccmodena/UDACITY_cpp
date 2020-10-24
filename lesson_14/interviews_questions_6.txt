@@ -1,0 +1,27 @@
+What is the output of this code?
+	#include<iostream>
+	using namespace std;
+
+	int returnValue()
+	{
+		static int i = 0;
+		i++;
+		return i;
+	}
+
+	int main()
+	{
+		cout<<"\ni = "<<returnValue();
+		cout<<"\ni = "<<returnValue();
+		cout<<"\ni = "<<returnValue();
+		return 0;
+	}
+
+	answer:
+	i = 1
+	i = 2
+	i = 3
+
+	
+What is a static variable?
+	A static variable will retain its value between function calls.

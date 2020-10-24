@@ -1,0 +1,29 @@
+What do the letters in OOP signify?
+	Object-oriented programming.
+	
+What is a class?
+	A class is a user defined data type, that can have data (attributes) and functions.
+	
+What is an object?
+	An object is an instance of a class.
+	
+What are the 5 types of inheritance in C++?
+	Single inheritance, multilevel inheritance, multiple inheritance, hierarchical inheritance and hybrid inheritance.
+	
+What are the three access class specifiers in C++?
+	Public inheritance, private inheritance and protected inheritance.
+	
+What is encapsulation?
+	Encapsulation is an Object Oriented Programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. 
+	
+What is data abstraction?
+	Data abstraction refers to providing only essential information to the outside world and hiding their background details.
+	
+What is inheritance?
+	Inheritance allows us to define a class in terms of another class, which makes it easier to create and maintain an application. This also provides an opportunity to reuse the code functionality and fast implementation time.
+	
+What makes a class an abstract class?
+	A class is made abstract by declaring at least one of its functions as pure virtual function. 
+	
+What is an advantage of inline functions?
+	It speeds the program execution time.
